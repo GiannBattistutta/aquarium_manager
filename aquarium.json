@@ -1,0 +1,25 @@
+{
+  "aquarium_name": "Community Tank",
+  "volume_liters": 120,
+  "water": {
+    "temperature_c": 24.5,
+    "ph": 7.0,
+    "salinity_ppt": 0.0
+  },
+  "fish": [
+    {
+      "name": "Neon Group",
+      "species": "Neon Tetra",
+      "quantity": 12
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Heater",
+      "status": "on"
+    }
+  ],
+  "maintenance_log": [
+    "2026-05-01: Water change 20%"
+  ]
+}
